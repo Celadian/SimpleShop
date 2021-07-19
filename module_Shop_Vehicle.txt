@@ -1,0 +1,658 @@
+module Base{ 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: CarBattery1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: CarBattery2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: CarBattery3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: EngineDoor1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: EngineDoor2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: EngineDoor3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: EngineParts,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: TrunkDoor1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: TrunkDoor2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: TrunkDoor3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: OldBrake1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: OldBrake2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: OldBrake3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalBrake1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalBrake2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalBrake3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernBrake1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernBrake2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernBrake3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: FrontCarDoor1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: FrontCarDoor2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: FrontCarDoor3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearCarDoor1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearCarDoor2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearCarDoor3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearCarDoorDouble1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearCarDoorDouble2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearCarDoorDouble3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: SmallGasTank1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: SmallGasTank2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: SmallGasTank3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalGasTank1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalGasTank2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalGasTank3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: BigGasTank1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: BigGasTank2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: BigGasTank3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: OldCarMuffler1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: OldCarMuffler2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: OldCarMuffler3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalCarMuffler1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalCarMuffler2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalCarMuffler3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernCarMuffler1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernCarMuffler2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernCarMuffler3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalCarSeat1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalCarSeat2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalCarSeat3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: BigCarSeat1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: BigCarSeat2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: BigCarSeat3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: SportCarSeat1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: SportCarSeat2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: SportCarSeat3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalSuspension1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalSuspension2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalSuspension3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernSuspension1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernSuspension2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernSuspension3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: OldTire1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: OldTire2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: OldTire3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalTire1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalTire2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: NormalTire3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernTire1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernTire2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: ModernTire3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: Windshield1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: Windshield2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: Windshield3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearWindshield1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearWindshield2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearWindshield3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: FrontWindow1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: FrontWindow2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: FrontWindow3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearWindow1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearWindow2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+    recipe Buy Vehicle Parts
+        {
+        Money=50,
+        Result: RearWindow3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Vehicles,
+        } 
+}

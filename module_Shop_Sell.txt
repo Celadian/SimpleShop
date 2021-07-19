@@ -1,0 +1,722 @@
+module Base {
+	recipe Sell Gold Wedding Band
+        {
+        WeddingRing_Man,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Wedding Band
+        {
+        WeddingRing_Woman,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Pearl Necklace
+        {
+        Necklacepearl,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Ring,
+        {
+        Ring,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Locket
+        {
+        Locket,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Necklace
+        {
+        Necklace_Gold,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ruby Necklace
+        {
+        Necklace_GoldRuby,
+        Result: Money=15,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Diamond Necklace
+        {
+        Necklace_GoldDiamond,
+        Result: Money=20,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Necklace
+        {
+        Necklace_Silver,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Sapphire Necklace
+        {
+        Necklace_SilverSapphire,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Crucifix Necklace
+        {
+        Necklace_SilverCrucifix,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Diamond Necklace
+        {
+        Necklace_SilverDiamond,
+        Result: Money=15,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Crucifix Necklace
+        {
+        Necklace_Crucifix,
+        Result: Money=1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Ying and Yang Necklace
+        {
+        Necklace_YingYang,
+        Result: Money=1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Pearl Necklace
+        {
+        Necklace_Pearl,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Long Gold Necklace
+        {
+        NecklaceLong_Gold,
+        Result: Money=15,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Long Gold Diamond Necklace
+        {
+        NecklaceLong_GoldDiamond,
+        Result: Money=25,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Long Silver Necklace
+        {
+        NecklaceLong_Silver,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Long Silver Emerald Necklace
+        {
+        NecklaceLong_SilverEmerald,
+        Result: Money=15,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Long Silver Sapphire Necklace
+        {
+        NecklaceLong_SilverSapphire,
+        Result: Money=15,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Long Silver Diamond Necklace
+        {
+        NecklaceLong_SilverDiamond,
+        Result: Money=20,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Long Amber Necklace
+        {
+        NecklaceLong_Amber,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Sapphire Choker
+        {
+        Necklace_Choker_Sapphire,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Amber Choker
+        {
+        Necklace_Choker_Amber,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Diamond Choker
+        {
+        Necklace_Choker_Diamond,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Nose Ring
+        {
+        NoseRing_Gold,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Nose Ring
+        {
+        NoseRing_Silver,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Nose Stud
+        {
+        NoseStud_Gold,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Nose Stud
+        {
+        NoseStud_Silver,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Large Gold Loop Earrings
+        {
+        Earring_LoopLrg_Gold,
+        Result: Money=10,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Large Silver Loop Earring
+        {
+        Earring_LoopLrg_Silver,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Medium Silver Looped Earring
+        {
+        Earring_LoopMed_Silver,
+        Result: Money=4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Medium Gold Looped Earring
+        {
+        Earring_LoopMed_Gold,
+        Result: Money=7,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Small Silver Looped Earring
+        {
+        Earring_LoopSmall_Silver_Both,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Small Gold Looped Earring
+        {
+        Earring_LoopSmall_Silver_Top,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Small Gold Loop Earrings
+        {
+        Earring_LoopSmall_Gold_Both,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Small Gold Loop Earrings
+        {
+        Earring_LoopSmall_Gold_Top,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Stud Earrings
+        {
+        Earring_Stud_Gold,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Stud Earrings
+        {
+        Earring_Stud_Silver,
+        Result: Money=3,
+        Time: 3,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Sapphire Stone Earrings
+        {
+        Earring_Stone_Sapphire,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Emerald Stone Earrings
+        {
+        Earring_Stone_Emerald,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Ruby Stone Earrings
+        {
+        Earring_Stone_Ruby,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Pearl Earrings
+        {
+        Earring_Pearl,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Sapphire Earrings
+        {
+        Earring_Dangly_Sapphire,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Emerald Earrings
+        {
+        Earring_Dangly_Emerald,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Ruby Earrings
+        {
+        Earring_Dangly_Ruby,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Diamond Earrings
+        {
+        Earring_Dangly_Diamond,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Pearl Earrings
+        {
+        Earring_Dangly_Pearl,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring
+        {
+        Ring_Right_MiddleFinger_Gold,
+        Result: Money=5,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring
+        {
+        Ring_Left_MiddleFinger_Gold,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring
+        {
+        Ring_Right_RingFinger_Gold,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring
+        {
+        Ring_Left_RingFinger_Gold,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Ring
+        {
+        Ring_Right_MiddleFinger_Silver,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Ring
+        {
+        Ring_Left_MiddleFinger_Silver,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Ring 
+        {
+        Ring_Right_RingFinger_Silver,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Ring
+        {
+        Ring_Left_RingFinger_Silver,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Ring with Diamond
+        {
+        Ring_Right_MiddleFinger_SilverDiamond,
+        Result: Money=13,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Ring with Diamond
+        {
+        Ring_Left_MiddleFinger_SilverDiamond,
+        Result: Money=13,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Ring with Diamond
+        {
+        Ring_Right_RingFinger_SilverDiamond,
+        Result: Money=13,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Ring with Diamond
+        {
+        Ring_Left_RingFinger_SilverDiamond,
+        Result: Money=13,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring with Ruby
+        {
+        Ring_Right_MiddleFinger_GoldRuby,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring with Ruby
+        {
+        Ring_Left_MiddleFinger_GoldRuby,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring with Ruby
+        {
+        Ring_Right_RingFinger_GoldRuby,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring with Ruby
+        {
+        Ring_Left_RingFinger_GoldRuby,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring with Diamond
+        {
+        Ring_Right_MiddleFinger_GoldDiamond,
+        Result: Money=15,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring with Diamond
+        {
+        Ring_Left_MiddleFinger_GoldDiamond,
+        Result: Money=15,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring with Diamond
+        {
+        Ring_Right_RingFinger_GoldDiamond,
+        Result: Money=15,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Ring with Diamond
+        {
+        Ring_Left_RingFinger_GoldDiamond,
+        Result: Money=15,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Wrist Watch
+        {
+        WristWatch_Right_ClassicBlack,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Wrist Watch
+        {
+        WristWatch_Left_ClassicBlack,
+        Result: Money=2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Wrist Watch
+        {
+        WristWatch_Right_ClassicBrown,
+        Result: Money=2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Wrist Watch
+        {
+        WristWatch_Left_ClassicBrown,
+        Result: Money=2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Wrist Watch
+        {
+        WristWatch_Right_ClassicMilitary,
+        Result: Money=2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Wrist Watch
+        {
+        WristWatch_Left_ClassicMilitary,
+        Result: Money=2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Watch
+        {
+        WristWatch_Right_ClassicGold,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Watch
+        {
+        WristWatch_Left_ClassicGold,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Digital Watch Black
+        {
+        WristWatch_Right_DigitalBlack,
+        Result: Money=2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Digital Watch Black
+        {
+        WristWatch_Left_DigitalBlack,
+        Result: Money=2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Digital Watch Red
+        {
+        WristWatch_Right_DigitalRed,
+        Result: Money=2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Digital Watch Red
+        {
+        WristWatch_Left_DigitalRed,
+        Result: Money=2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Digital Watch Metallic
+        {
+        WristWatch_Right_DigitalDress,
+        Result: Money=2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Digital Watch Metallic
+        {
+        WristWatch_Left_DigitalDress,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Bangle
+        {
+        Bracelet_BangleRightGold,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Bangle
+        {
+        Bracelet_BangleLeftGold,
+        Result: Money=10,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Wrist Chain
+        {
+        Bracelet_ChainRightGold,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Gold Wrist Chain
+        {
+        Bracelet_ChainLeftGold,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Bangle
+        {
+        Bracelet_BangleRightSilver,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Bangle
+        {
+        Bracelet_BangleLeftSilver,
+        Result: Money=5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Chain
+        {
+        Bracelet_ChainRightSilver,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+    recipe Sell Silver Chain
+        {
+        Bracelet_ChainLeftSilver,
+        Result: Money=3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Sell,
+        } 
+}

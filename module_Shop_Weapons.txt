@@ -1,0 +1,446 @@
+module Base {
+   recipe Buy Baseball Bat
+    {
+       Money=10,
+       Result: BaseballBat,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+   recipe Buy Spiked Baseball Bat
+    {
+       Money=20,
+       Result: BaseballBatNails,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+   recipe Buy Golf Club
+    {
+       Money=5,
+       Result: Golfclub,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Hand Scythe
+    {
+       Money=25,
+       Result: HandScythe,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Katana
+    {
+       Money=175,
+       Result: Katana,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Machete
+    {
+       Money=100,
+       Result: Machete,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Shotgun Sawnoff
+    {
+       Money=50,
+       Result: ShotgunSawnoff,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Shotgun
+    {
+       Money=75,
+       Result: Shotgun,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy M9 Pistol
+    {
+       Money=35,
+       Result: Pistol,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy M9 Clip
+    {
+       Money=10,
+       Result: 9mmClip,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy M1911 Pistol
+    {
+       Money=55,
+       Result: Pistol,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy M1911 Clip
+    {
+       Money=10,
+       Result: 45Clip,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy D-E Pistol
+    {
+       Money=75,
+       Result: Pistol3,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy .44 D-E clip
+    {
+       Money=15,
+       Result: 44Clip,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy M36 Revolver
+    {
+       Money=35,
+       Result: Revolver_Short,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy M625 Revolver
+    {
+       Money=55,
+       Result: Revolver,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Magnum
+    {
+       Money=75,
+       Result: Revolver_Long,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy JS-2000 Shotgun
+    {
+       Money=50,
+       Result: Shotgun,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Sawn Off JS-2000 Shotgun
+    {
+       Money=50,
+       Result: ShotgunSawnoff,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Double Barrell Shotgun
+    {
+       Money=65,
+       Result: DoubleBarrelShotgun,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Sawn Off Double Barrell Shotgun
+    {
+       Money=65,
+       Result: DoubleBarrelShotgunSawnoff,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy MSR700 Rifle
+    {
+       Money=45,
+       Result: VarmintRifle,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy MSR700
+    {
+       Money=10,
+       Result: 223Clip,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy MSR788
+    {
+       Money=65,
+       Result: HuntingRifle,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy MSR788 Clip
+    {
+       Money=15,
+       Result: 308Clip,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Varmint Rifle
+    {
+       Money=45,
+       Result: VarmintRifle,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy M16 Assault Rifle
+    {
+       Money=250,
+       Result: AssaultRifle,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy M16 Clip
+    {
+       Money=35,
+       Result: 556Clip,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy M14 Single Shot Assault Rifle
+    {
+       Money=200,
+       Result: AssaultRifle2,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy M14 Clip
+    {
+       Money=25,
+       Result: M14Clip,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Box of .44 Magnum Bullets
+    {
+       Money=35,
+       Result: Bullets44Box,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Box of .45 Auto Bullets
+    {
+       Money=25,
+       Result: Bullets45Box,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Box of .38 Special Bullets
+    {
+       Money=20,
+       Result: Bullets38Box,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Box of 9mm
+    {
+       Money=20,
+       Result: Bullets9mmBox,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+
+    recipe Buy Box of Shotgun Shells
+    {
+       Money=25,
+       Result: ShotgunShellsBox,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+
+    recipe Buy Box of .308 Bullets
+    {
+       Money=20,
+       Result: 308Box,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Box of .556 Bullets
+    {
+       Money=35,
+       Result: 556Box,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    
+    
+    recipe Buy Aerosol Bomb
+    {
+       Money=50,
+       Result: Aerosolbomb,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Flame Trap
+    {
+       Money=50,
+       Result: FlameTrap,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Molotov Cocktail
+    {
+       Money=35,
+       Result: Molotov,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons
+    }
+    recipe Buy Noise Maker
+    {
+       Money=35,
+       Result: NoiseTrap,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Pipe Bomb
+    {
+       Money=75,
+       Result: PipeBomb,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Smoke Bomb
+    {
+       Money=10,
+       Result: SmokeBomb,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Ammo Straps
+    {
+       Money=20,
+       Result: AmmoStraps,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Choke Tube Full
+    {
+       Money=20,
+       Result: ChokeTubeFull,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Choke Tube Improved
+    {
+       Money=20,
+       Result: ChokeTubeImproved,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Fiberglass Stock
+    {
+       Money=20,
+       Result: FiberglassStock,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Iron Sight
+    {
+       Money=20,
+       Result: IronSight,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Laser
+    {
+       Money=20,
+       Result: Laser,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Recoil Pad
+    {
+       Money=20,
+       Result: RecoilPad,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Red Dot
+    {
+       Money=20,
+       Result: RedDot,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy Sling
+    {
+       Money=20,
+       Result: Sling,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy x2 Scope
+    {
+       Money=20,
+       Result: x2Scope,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy x4 Scope
+    {
+       Money=35,
+       Result: x4Scope,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+    recipe Buy x8 Scope
+    {
+       Money=50,
+       Result: x8Scope,
+       Time: 1000,
+       keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+       Category: SShop Weapons,
+    }
+}

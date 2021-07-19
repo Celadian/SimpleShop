@@ -1,0 +1,8 @@
+module Base {
+    recipe Get Money
+    {
+        Wallet/Wallet2/Wallet3/Wallet4,
+        Result: Money=5,
+        Category: General,
+    }
+}

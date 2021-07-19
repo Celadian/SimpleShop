@@ -1,0 +1,715 @@
+module Base{ 
+    recipe Buy Book
+        {
+        Money=10,
+        Result: Book,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy ComicBook
+        {
+        Money=10,
+        Result: ComicBook,
+        Time: 5,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy HottieZ
+        {
+        Money=10,
+        Result: HottieZ,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy Magazine
+        {
+        Money=5,
+        Result: Magazine,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy Newspaper
+        {
+        Money=5,
+        Result: Newspaper,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy MarchRidgeMap
+        {
+        Money=30,
+        Result: MarchRidgeMap,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy MuldraughMap
+        {
+        Money=30,
+        Result: MuldraughMap,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy RiversideMap
+        {
+        Money=30,
+        Result: RiversideMap,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy RosewoodMap
+        {
+        Money=30,
+        Result: RosewoodMap,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy WestpointMap
+        {
+        Money=30,
+        Result: WestpointMap,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy Notebook
+        {
+        Money=5,
+        Result: Notebook,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy Doodle
+        {
+        Money=5,
+        Result: Doodle,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy Journal
+        {
+        Money=5,
+        Result: Journal,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy SheetPaper2
+        {
+        Money=2,
+        Result: SheetPaper2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookCarpentry1
+        {
+        Money=10,
+        Result: BookCarpentry1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookCarpentry2
+        {
+        Money=15,
+        Result: BookCarpentry2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookCarpentry3
+        {
+        Money=25,
+        Result: BookCarpentry3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookCarpentry4
+        {
+        Money=40,
+        Result: BookCarpentry4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookCarpentry5
+        {
+        Money=60,
+        Result: BookCarpentry5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookCooking1
+        {
+        Money=10,
+        Result: BookCooking1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookCooking2
+        {
+        Money=15,
+        Result: BookCooking2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookCooking3
+        {
+        Money=25,
+        Result: BookCooking3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookCooking4
+        {
+        Money=40,
+        Result: BookCooking4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookCooking5
+        {
+        Money=60,
+        Result: BookCooking5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookElectrician1
+        {
+        Money=10,
+        Result: BookElectrician1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookElectrician2
+        {
+        Money=15,
+        Result: BookElectrician2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookElectrician4
+        {
+        Money=25,
+        Result: BookElectrician4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookElectrician5
+        {
+        Money=40,
+        Result: BookElectrician5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFarming1
+        {
+        Money=10,
+        Result: BookFarming1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFarming2
+        {
+        Money=15,
+        Result: BookFarming2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFarming3
+        {
+        Money=25,
+        Result: BookFarming3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFarming4
+        {
+        Money=40,
+        Result: BookFarming4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFarming5
+        {
+        Money=60,
+        Result: BookFarming5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFirstAid1
+        {
+        Money=10,
+        Result: BookFirstAid1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFirstAid2
+        {
+        Money=15,
+        Result: BookFirstAid2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFirstAid3
+        {
+        Money=25,
+        Result: BookFirstAid3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFirstAid4
+        {
+        Money=40,
+        Result: BookFirstAid4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFirstAid5
+        {
+        Money=60,
+        Result: BookFirstAid5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFishing1
+        {
+        Money=10,
+        Result: BookFishing1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFishing2
+        {
+        Money=15,
+        Result: BookFishing2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFishing3
+        {
+        Money=25,
+        Result: BookFishing3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFishing4
+        {
+        Money=40,
+        Result: BookFishing4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookFishing5
+        {
+        Money=60,
+        Result: BookFishing5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookForaging1
+        {
+        Money=10,
+        Result: BookForaging1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookForaging2
+        {
+        Money=15,
+        Result: BookForaging2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookForaging3
+        {
+        Money=25,
+        Result: BookForaging3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookForaging4
+        {
+        Money=40,
+        Result: BookForaging4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookForaging5
+        {
+        Money=60,
+        Result: BookForaging5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookMechanics1
+        {
+        Money=10,
+        Result: BookMechanics1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookMechanics2
+        {
+        Money=15,
+        Result: BookMechanics2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookMechanics3
+        {
+        Money=25,
+        Result: BookMechanics3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookMechanics4
+        {
+        Money=40,
+        Result: BookMechanics4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookMechanics5
+        {
+        Money=60,
+        Result: BookMechanics5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookMetalWelding1
+        {
+        Money=10,
+        Result: BookMetalWelding1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookMetalWelding2
+        {
+        Money=15,
+        Result: BookMetalWelding2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookMetalWelding3
+        {
+        Money=25,
+        Result: BookMetalWelding3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookMetalWelding4
+        {
+        Money=40,
+        Result: BookMetalWelding4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookMetalWelding5
+        {
+        Money=60,
+        Result: BookMetalWelding5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookTrapping1
+        {
+        Money=10,
+        Result: BookTrapping1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookTrapping2
+        {
+        Money=15,
+        Result: BookTrapping2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookTrapping3
+        {
+        Money=25,
+        Result: BookTrapping3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookTrapping4
+        {
+        Money=40,
+        Result: BookTrapping4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy BookTrapping5
+        {
+        Money=60,
+        Result: BookTrapping5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy FishingMag1
+        {
+        Money=25,
+        Result: FishingMag1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy FishingMag2
+        {
+        Money=25,
+        Result: FishingMag2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy ElectronicsMag1
+        {
+        Money=25,
+        Result: ElectronicsMag1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy ElectronicsMag2
+        {
+        Money=25,
+        Result: ElectronicsMag2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy ElectronicsMag3
+        {
+        Money=25,
+        Result: ElectronicsMag3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy ElectronicsMag5
+        {
+        Money=25,
+        Result: ElectronicsMag5,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy EngineerMagazine1
+        {
+        Money=25,
+        Result: EngineerMagazine1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy EngineerMagazine2
+        {
+        Money=25,
+        Result: EngineerMagazine2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy CookingMag1
+        {
+        Money=25,
+        Result: CookingMag1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy CookingMag2
+        {
+        Money=25,
+        Result: CookingMag2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy RadioMag1
+        {
+        Money=25,
+        Result: RadioMag1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy RadioMag2
+        {
+        Money=25,
+        Result: RadioMag2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy RadioMag2
+        {
+        Money=25,
+        Result: RadioMag2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy ElectronicsMag4
+        {
+        Money=25,
+        Result: ElectronicsMag4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy MechanicMag1
+        {
+        Money=25,
+        Result: MechanicMag1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy MechanicMag2
+        {
+        Money=25,
+        Result: MechanicMag2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy MechanicMag3
+        {
+        Money=25,
+        Result: MechanicMag3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy FarmingMag1
+        {
+        Money=25,
+        Result: FarmingMag1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy HerbalistMag
+        {
+        Money=25,
+        Result: HerbalistMag,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy HuntingMag1
+        {
+        Money=25,
+        Result: HuntingMag1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy HuntingMag2
+        {
+        Money=25,
+        Result: HuntingMag2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy HuntingMag3
+        {
+        Money=25,
+        Result: HuntingMag3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy MetalworkMag1
+        {
+        Money=25,
+        Result: MetalworkMag1,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy MetalworkMag2
+        {
+        Money=25,
+        Result: MetalworkMag2,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy MetalworkMag3
+        {
+        Money=25,
+        Result: MetalworkMag3,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+    recipe Buy MetalworkMag4
+        {
+        Money=25,
+        Result: MetalworkMag4,
+        Time: 1000,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Literature,
+        } 
+}
+
