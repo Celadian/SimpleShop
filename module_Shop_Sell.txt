@@ -3,7 +3,7 @@ module Base {
         {
         WeddingRing_Man,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -11,7 +11,7 @@ module Base {
         {
         WeddingRing_Woman,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -19,7 +19,7 @@ module Base {
         {
         Necklacepearl,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -27,7 +27,7 @@ module Base {
         {
         Ring,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -35,7 +35,7 @@ module Base {
         {
         Locket,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -43,7 +43,7 @@ module Base {
         {
         Necklace_Gold,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -51,7 +51,7 @@ module Base {
         {
         Necklace_GoldRuby,
         Result: Money=15,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -59,7 +59,7 @@ module Base {
         {
         Necklace_GoldDiamond,
         Result: Money=20,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -67,7 +67,7 @@ module Base {
         {
         Necklace_Silver,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -75,7 +75,7 @@ module Base {
         {
         Necklace_SilverSapphire,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -83,7 +83,7 @@ module Base {
         {
         Necklace_SilverCrucifix,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -91,7 +91,7 @@ module Base {
         {
         Necklace_SilverDiamond,
         Result: Money=15,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -99,7 +99,7 @@ module Base {
         {
         Necklace_Crucifix,
         Result: Money=1,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -107,7 +107,7 @@ module Base {
         {
         Necklace_YingYang,
         Result: Money=1,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -115,7 +115,7 @@ module Base {
         {
         Necklace_Pearl,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -123,7 +123,7 @@ module Base {
         {
         NecklaceLong_Gold,
         Result: Money=15,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -131,7 +131,7 @@ module Base {
         {
         NecklaceLong_GoldDiamond,
         Result: Money=25,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -139,7 +139,7 @@ module Base {
         {
         NecklaceLong_Silver,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -147,7 +147,7 @@ module Base {
         {
         NecklaceLong_SilverEmerald,
         Result: Money=15,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -155,7 +155,7 @@ module Base {
         {
         NecklaceLong_SilverSapphire,
         Result: Money=15,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -163,7 +163,7 @@ module Base {
         {
         NecklaceLong_SilverDiamond,
         Result: Money=20,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -171,7 +171,7 @@ module Base {
         {
         NecklaceLong_Amber,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -179,7 +179,7 @@ module Base {
         {
         Necklace_Choker_Sapphire,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -187,7 +187,7 @@ module Base {
         {
         Necklace_Choker_Amber,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -195,7 +195,7 @@ module Base {
         {
         Necklace_Choker_Diamond,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -203,7 +203,7 @@ module Base {
         {
         NoseRing_Gold,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -211,7 +211,7 @@ module Base {
         {
         NoseRing_Silver,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -219,7 +219,7 @@ module Base {
         {
         NoseStud_Gold,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -227,7 +227,7 @@ module Base {
         {
         NoseStud_Silver,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -243,7 +243,7 @@ module Base {
         {
         Earring_LoopLrg_Silver,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -251,7 +251,7 @@ module Base {
         {
         Earring_LoopMed_Silver,
         Result: Money=4,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -259,7 +259,7 @@ module Base {
         {
         Earring_LoopMed_Gold,
         Result: Money=7,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -267,7 +267,7 @@ module Base {
         {
         Earring_LoopSmall_Silver_Both,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -275,7 +275,7 @@ module Base {
         {
         Earring_LoopSmall_Silver_Top,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -283,7 +283,7 @@ module Base {
         {
         Earring_LoopSmall_Gold_Both,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -371,7 +371,7 @@ module Base {
         {
         Earring_Dangly_Diamond,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -395,7 +395,7 @@ module Base {
         {
         Ring_Left_MiddleFinger_Gold,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -403,7 +403,7 @@ module Base {
         {
         Ring_Right_RingFinger_Gold,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -411,7 +411,7 @@ module Base {
         {
         Ring_Left_RingFinger_Gold,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -419,7 +419,7 @@ module Base {
         {
         Ring_Right_MiddleFinger_Silver,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -427,7 +427,7 @@ module Base {
         {
         Ring_Left_MiddleFinger_Silver,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -435,7 +435,7 @@ module Base {
         {
         Ring_Right_RingFinger_Silver,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -443,7 +443,7 @@ module Base {
         {
         Ring_Left_RingFinger_Silver,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -451,7 +451,7 @@ module Base {
         {
         Ring_Right_MiddleFinger_SilverDiamond,
         Result: Money=13,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -459,7 +459,7 @@ module Base {
         {
         Ring_Left_MiddleFinger_SilverDiamond,
         Result: Money=13,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -467,7 +467,7 @@ module Base {
         {
         Ring_Right_RingFinger_SilverDiamond,
         Result: Money=13,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -475,7 +475,7 @@ module Base {
         {
         Ring_Left_RingFinger_SilverDiamond,
         Result: Money=13,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -483,7 +483,7 @@ module Base {
         {
         Ring_Right_MiddleFinger_GoldRuby,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -491,7 +491,7 @@ module Base {
         {
         Ring_Left_MiddleFinger_GoldRuby,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -499,7 +499,7 @@ module Base {
         {
         Ring_Right_RingFinger_GoldRuby,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -507,7 +507,7 @@ module Base {
         {
         Ring_Left_RingFinger_GoldRuby,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -515,7 +515,7 @@ module Base {
         {
         Ring_Right_MiddleFinger_GoldDiamond,
         Result: Money=15,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -523,7 +523,7 @@ module Base {
         {
         Ring_Left_MiddleFinger_GoldDiamond,
         Result: Money=15,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -531,7 +531,7 @@ module Base {
         {
         Ring_Right_RingFinger_GoldDiamond,
         Result: Money=15,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -539,7 +539,7 @@ module Base {
         {
         Ring_Left_RingFinger_GoldDiamond,
         Result: Money=15,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -547,7 +547,7 @@ module Base {
         {
         WristWatch_Right_ClassicBlack,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -555,7 +555,7 @@ module Base {
         {
         WristWatch_Left_ClassicBlack,
         Result: Money=2,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -563,7 +563,7 @@ module Base {
         {
         WristWatch_Right_ClassicBrown,
         Result: Money=2,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -571,7 +571,7 @@ module Base {
         {
         WristWatch_Left_ClassicBrown,
         Result: Money=2,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -579,7 +579,7 @@ module Base {
         {
         WristWatch_Right_ClassicMilitary,
         Result: Money=2,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -587,7 +587,7 @@ module Base {
         {
         WristWatch_Left_ClassicMilitary,
         Result: Money=2,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -595,7 +595,7 @@ module Base {
         {
         WristWatch_Right_ClassicGold,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -603,7 +603,7 @@ module Base {
         {
         WristWatch_Left_ClassicGold,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -611,7 +611,7 @@ module Base {
         {
         WristWatch_Right_DigitalBlack,
         Result: Money=2,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -619,7 +619,7 @@ module Base {
         {
         WristWatch_Left_DigitalBlack,
         Result: Money=2,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -627,7 +627,7 @@ module Base {
         {
         WristWatch_Right_DigitalRed,
         Result: Money=2,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -635,7 +635,7 @@ module Base {
         {
         WristWatch_Left_DigitalRed,
         Result: Money=2,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -643,7 +643,7 @@ module Base {
         {
         WristWatch_Right_DigitalDress,
         Result: Money=2,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -651,7 +651,7 @@ module Base {
         {
         WristWatch_Left_DigitalDress,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -659,7 +659,7 @@ module Base {
         {
         Bracelet_BangleRightGold,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -667,7 +667,7 @@ module Base {
         {
         Bracelet_BangleLeftGold,
         Result: Money=10,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -675,7 +675,7 @@ module Base {
         {
         Bracelet_ChainRightGold,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -683,7 +683,7 @@ module Base {
         {
         Bracelet_ChainLeftGold,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -691,7 +691,7 @@ module Base {
         {
         Bracelet_BangleRightSilver,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -699,7 +699,7 @@ module Base {
         {
         Bracelet_BangleLeftSilver,
         Result: Money=5,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -707,7 +707,7 @@ module Base {
         {
         Bracelet_ChainRightSilver,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 
@@ -715,7 +715,7 @@ module Base {
         {
         Bracelet_ChainLeftSilver,
         Result: Money=3,
-        Time: 1000,
+        Time: 10,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
         Category: SShop Sell,
         } 

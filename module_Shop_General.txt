@@ -6,3 +6,14 @@ module Base {
         Category: General,
     }
 }
+
+module MREMeal41 {
+    recipe Buy MRE
+    {
+       	Money=20,
+	Result: MRE,
+	keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+	Category: General,
+    }
+}
+

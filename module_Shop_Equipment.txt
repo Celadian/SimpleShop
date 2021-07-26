@@ -1,1227 +1,1227 @@
 module Base{
-    recipe Buy Bag_BigHikingBag
+    recipe Buy Equipment: Bag_BigHikingBag
         {
         Money=25,
         Result: Bag_BigHikingBag,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Bag_DuffelBag
+    recipe Buy Equipment: Bag_DuffelBag
         {
         Money=20,
         Result: Bag_DuffelBag,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Bag_DuffelBagTINT
+    recipe Buy Equipment: Bag_DuffelBagTINT
         {
         Money=20,
         Result: Bag_DuffelBagTINT,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Bag_FannyPackFront
+    recipe Buy Equipment: Bag_FannyPackFront
         {
         Money=10,
         Result: Bag_FannyPackFront,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Bag_FannyPackBack
+    recipe Buy Equipment: Bag_FannyPackBack
         {
         Money=10,
         Result: Bag_FannyPackBack,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Bag_NormalHikingBag
+    recipe Buy Equipment: Bag_NormalHikingBag
         {
         Money=20,
         Result: Bag_NormalHikingBag,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Bag_ALICEpack
+    recipe Buy Equipment: Bag_ALICEpack
         {
         Money=50,
         Result: Bag_ALICEpack,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Bag_ALICEpack_Army
+    recipe Buy Equipment: Bag_ALICEpack_Army
         {
         Money=50,
         Result: Bag_ALICEpack_Army,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Bag_Schoolbag
+    recipe Buy Equipment: Bag_Schoolbag
         {
         Money=10,
         Result: Bag_Schoolbag,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Briefcase
+    recipe Buy Equipment: Briefcase
         {
         Money=5,
         Result: Briefcase,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Flightcase
+    recipe Buy Equipment: Flightcase
         {
         Money=5,
         Result: Flightcase,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy FirstAidKit
+    recipe Buy Equipment: FirstAidKit
         {
         Money=5,
         Result: FirstAidKit,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Garbagebag
+    recipe Buy Equipment: Garbagebag
         {
         Money=5,
         Result: Garbagebag,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Guitarcase
+    recipe Buy Equipment: Guitarcase
         {
         Money=5,
         Result: Guitarcase,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Handbag
+    recipe Buy Equipment: Handbag
         {
         Money=3,
         Result: Handbag,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Lunchbox
+    recipe Buy Equipment: Lunchbox
         {
         Money=3,
         Result: Lunchbox,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Lunchbox2
+    recipe Buy Equipment: Lunchbox2
         {
         Money=3,
         Result: Lunchbox2,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    Precipe Buy Plasticbag
+    Precipe Buy Equipment: Plasticbag
         {
         Money=3,
         Result: Plasticbag,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Purse
+    recipe Buy Equipment: Purse
         {
         Money=3,
         Result: Purse,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy SeedBag
+    recipe Buy Equipment: SeedBag
         {
         Money=3,
         Result: SeedBag,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy SewingKit
+    recipe Buy Equipment: SewingKit
         {
         Money=3,
         Result: SewingKit,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Suitcase
+    recipe Buy Equipment: Suitcase
         {
         Money=5,
         Result: Suitcase,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Toolbox
+    recipe Buy Equipment: Toolbox
         {
         Money=5,
         Result: Toolbox,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Tote
+    recipe Buy Equipment: Tote
         {
         Money=3,
         Result: Tote,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy AlarmClock
+    recipe Buy Equipment: AlarmClock
         {
         Money=5,
         Result: AlarmClock,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CDplayer
+    recipe Buy Equipment: CDplayer
         {
         Money=10,
         Result: CDplayer,
         Time: 5,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CordlessPhone
+    recipe Buy Equipment: CordlessPhone
         {
         Money=5,
         Result: CordlessPhone,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Earbuds
+    recipe Buy Equipment: Earbuds
         {
         Money=5,
         Result: Earbuds,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Generator
+    recipe Buy Equipment: Generator
         {
         Money=75,
         Result: Generator,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Headphones
+    recipe Buy Equipment: Headphones
         {
         Money=5,
         Result: Headphones,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy HomeAlarm
+    recipe Buy Equipment: HomeAlarm
         {
         Money=15,
         Result: HomeAlarm,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Speaker
+    recipe Buy Equipment: Speaker
         {
         Money=5,
         Result: Speaker,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Timer
+    recipe Buy Equipment: Timer
         {
         Money=10,
         Result: Timer,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Remote
+    recipe Buy Equipment: Remote
         {
         Money=15,
         Result: Remote,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy RemoteCraftedV1
+    recipe Buy Equipment: RemoteCraftedV1
         {
         Money=15,
         Result: RemoteCraftedV1,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy RemoteCraftedV2
+    recipe Buy Equipment: RemoteCraftedV2
         {
         Money=15,
         Result: RemoteCraftedV2,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy RemoteCraftedV3
+    recipe Buy Equipment: RemoteCraftedV3
         {
         Money=15,
         Result: RemoteCraftedV3,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy VideoGame
+    recipe Buy Equipment: VideoGame
         {
         Money=10,
         Result: VideoGame,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy BathTowel
+    recipe Buy Equipment: BathTowel
         {
         Money=5,
         Result: BathTowel,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CleaningLiquid
+    recipe Buy Equipment: CleaningLiquid
         {
         Money=20,
         Result: CleaningLiquid,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy DishCloth
+    recipe Buy Equipment: DishCloth
         {
         Money=5,
         Result: DishCloth,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Extinguisher
+    recipe Buy Equipment: Extinguisher
         {
         Money=15,
         Result: Extinguisher,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Mop
+    recipe Buy Equipment: Mop
         {
         Money=15,
         Result: Mop,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Soap
+    recipe Buy Equipment: Soap
         {
         Money=15,
         Result: Soap,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy SutureNeedle
+    recipe Buy Equipment: SutureNeedle
         {
         Money=15,
         Result: SutureNeedle,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy SutureNeedleHolder
+    recipe Buy Equipment: SutureNeedleHolder
         {
         Money=5,
         Result: SutureNeedleHolder,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Equipment
+    recipe Buy Equipment: Buy
         {
         Money=2,
         Result: Tissue,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Tweezers
+    recipe Buy Equipment: Tweezers
         {
         Money=10,
         Result: Tweezers,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CandleLit
+    recipe Buy Equipment: CandleLit
         {
         Money=10,
         Result: CandleLit,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Torch
+    recipe Buy Equipment: Torch
         {
         Money=15,
         Result: Torch,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy HandTorch
+    recipe Buy Equipment: HandTorch
         {
         Money=10,
         Result: HandTorch,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Lighter
+    recipe Buy Equipment: Lighter
         {
         Money=10,
         Result: Lighter,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Matches
+    recipe Buy Equipment: Matches
         {
         Money=6,
         Result: Matches,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CarKey
+    recipe Buy Equipment: CarKey
         {
         Money=10,
         Result: CarKey,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Key1
+    recipe Buy Equipment: Key1
         {
         Money=10,
         Result: Key1,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Key2
+    recipe Buy Equipment: Key2
         {
         Money=10,
         Result: Key2,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Key3
+    recipe Buy Equipment: Key3
         {
         Money=10,
         Result: Key3,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Key4
+    recipe Buy Equipment: Key4
         {
         Money=10,
         Result: Key4,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Key5
+    recipe Buy Equipment: Key5
         {
         Money=10,
         Result: Key5,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy KeyPadlock
+    recipe Buy Equipment: KeyPadlock
         {
         Money=25,
         Result: KeyPadlock,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CombinationPadlock
+    recipe Buy Equipment: CombinationPadlock
         {
         Money=25,
         Result: CombinationPadlock,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Padlock
+    recipe Buy Equipment: Padlock
         {
         Money=25,
         Result: Padlock,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CampfireKit
+    recipe Buy Equipment: CampfireKit
         {
         Money=15,
         Result: CampfireKit,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CampingTentKit
+    recipe Buy Equipment: CampingTentKit
         {
         Money=25,
         Result: CampingTentKit,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy PercedWood
+    recipe Buy Equipment: PercedWood
         {
         Money=5,
         Result: PercedWood,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy AxeStone
+    recipe Buy Equipment: AxeStone
         {
         Money=5,
         Result: AxeStone,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy HammerStone
+    recipe Buy Equipment: HammerStone
         {
         Money=5,
         Result: HammerStone,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy BakingPan
+    recipe Buy Equipment: BakingPan
         {
         Money=5,
         Result: BakingPan,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy BoxOfJars
+    recipe Buy Equipment: BoxOfJars
         {
         Money=10,
         Result: BoxOfJars,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy BreadKnife
+    recipe Buy Equipment: BreadKnife
         {
         Money=5,
         Result: BreadKnife,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy ButterKnife
+    recipe Buy Equipment: ButterKnife
         {
         Money=5,
         Result: ButterKnife,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy TinOpener
+    recipe Buy Equipment: TinOpener
         {
         Money=10,
         Result: TinOpener,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy EmptyJar
+    recipe Buy Equipment: EmptyJar
         {
         Money=5,
         Result: EmptyJar,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Fork
+    recipe Buy Equipment: Fork
         {
         Money=5,
         Result: Fork,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Pan
+    recipe Buy Equipment: Pan
         {
         Money=5,
         Result: Pan,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy GridlePan
+    recipe Buy Equipment: GridlePan
         {
         Money=5,
         Result: GridlePan,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy HuntingKnife
+    recipe Buy Equipment: HuntingKnife
         {
         Money=25,
         Result: HuntingKnife,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy JarLid
+    recipe Buy Equipment: JarLid
         {
         Money=5,
         Result: JarLid,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy KitchenKnife
+    recipe Buy Equipment: KitchenKnife
         {
         Money=15,
         Result: KitchenKnife,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy MeatCleaver
+    recipe Buy Equipment: MeatCleaver
         {
         Money=15,
         Result: MeatCleaver,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy MortarPestle
+    recipe Buy Equipment: MortarPestle
         {
         Money=20,
         Result: MortarPestle,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy RoastingPan
+    recipe Buy Equipment: RoastingPan
         {
         Money=5,
         Result: RoastingPan,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy RollingPin
+    recipe Buy Equipment: RollingPin
         {
         Money=5,
         Result: RollingPin,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Saucepan
+    recipe Buy Equipment: Saucepan
         {
         Money=5,
         Result: Saucepan,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Spoon
+    recipe Buy Equipment: Spoon
         {
         Money=5,
         Result: Spoon,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy FlintKnife
+    recipe Buy Equipment: FlintKnife
         {
         Money=5,
         Result: FlintKnife,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy GardenFork
+    recipe Buy Equipment: GardenFork
         {
         Money=10,
         Result: GardenFork,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy GardenHoe
+    recipe Buy Equipment: GardenHoe
         {
         Money=10,
         Result: GardenHoe,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy HandFork
+    recipe Buy Equipment: HandFork
         {
         Money=10,
         Result: HandFork,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Shovel
+    recipe Buy Equipment: Shovel
         {
         Money=20,
         Result: Shovel,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Shovel2
+    recipe Buy Equipment: Shovel2
         {
         Money=10,
         Result: Shovel2,
         Time: 20,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy SnowShovel
+    recipe Buy Equipment: SnowShovel
         {
         Money=15,
         Result: SnowShovel,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy HandShovel
+    recipe Buy Equipment: HandShovel
         {
         Money=15,
         Result: HandShovel,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CompostBag
+    recipe Buy Equipment: CompostBag
         {
         Money=5,
         Result: CompostBag,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Dirtbag
+    recipe Buy Equipment: Dirtbag
         {
         Money=7,
         Result: Dirtbag,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy GardeningSprayCigarettes
+    recipe Buy Equipment: GardeningSprayCigarettes
         {
         Money=25,
         Result: GardeningSprayCigarettes,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy GardeningSprayMilk
+    recipe Buy Equipment: GardeningSprayMilk
         {
         Money=25,
         Result: GardeningSprayMilk,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Fertilizer
+    recipe Buy Equipment: Fertilizer
         {
         Money=10,
         Result: Fertilizer,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy BroccoliSeed
+    recipe Buy Equipment: BroccoliSeed
         {
         Money=1,
         Result: BroccoliSeed,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CabbageSeed
+    recipe Buy Equipment: CabbageSeed
         {
         Money=1,
         Result: CabbageSeed,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CarrotSeed
+    recipe Buy Equipment: CarrotSeed
         {
         Money=1,
         Result: CarrotSeed,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy PotatoSeed
+    recipe Buy Equipment: PotatoSeed
         {
         Money=1,
         Result: PotatoSeed,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy RedRadishSeed
+    recipe Buy Equipment: RedRadishSeed
         {
         Money=1,
         Result: RedRadishSeed,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy StrewberrieSeed
+    recipe Buy Equipment: StrewberrieSeed
         {
         Money=1,
         Result: StrewberrieSeed,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy TomatoSeed
+    recipe Buy Equipment: TomatoSeed
         {
         Money=1,
         Result: TomatoSeed,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy FishingRod
+    recipe Buy Equipment: FishingRod
         {
         Money=35,
         Result: FishingRod,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy FishingRodTwineLine
+    recipe Buy Equipment: FishingRodTwineLine
         {
         Money=10,
         Result: FishingRodTwineLine,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CraftedFishingRod
+    recipe Buy Equipment: CraftedFishingRod
         {
         Money=25,
         Result: CraftedFishingRod,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CraftedFishingRodTwineLine
+    recipe Buy Equipment: CraftedFishingRodTwineLine
         {
         Money=25,
         Result: CraftedFishingRodTwineLine,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy WoodenLance
+    recipe Buy Equipment: WoodenLance
         {
         Money=20,
         Result: WoodenLance,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy TrapCage
+    recipe Buy Equipment: TrapCage
         {
         Money=20,
         Result: TrapCage,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy FishingNet
+    recipe Buy Equipment: FishingNet
         {
         Money=15,
         Result: FishingNet,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy TrapMouse
+    recipe Buy Equipment: TrapMouse
         {
         Money=10,
         Result: TrapMouse,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy TrapSnare
+    recipe Buy Equipment: TrapSnare
         {
         Money=15,
         Result: TrapSnare,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy TrapStick
+    recipe Buy Equipment: TrapStick
         {
         Money=15,
         Result: TrapStick,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy TrapBox
+    recipe Buy Equipment: TrapBox
         {
         Money=20,
         Result: TrapBox,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy TrapCrate
+    recipe Buy Equipment: TrapCrate
         {
         Money=20,
         Result: TrapCrate,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy BluePen
+    recipe Buy Equipment: BluePen
         {
         Money=2,
         Result: BluePen,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Eraser
+    recipe Buy Equipment: Eraser
         {
         Money=2,
         Result: Eraser,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Needle
+    recipe Buy Equipment: Needle
         {
         Money=10,
         Result: Needle,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Pen
+    recipe Buy Equipment: Pen
         {
         Money=2,
         Result: Pen,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Pencil
+    recipe Buy Equipment: Pencil
         {
         Money=2,
         Result: Pencil,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy RedPen
+    recipe Buy Equipment: RedPen
         {
         Money=2,
         Result: RedPen,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Scissors
+    recipe Buy Equipment: Scissors
         {
         Money=5,
         Result: Scissors,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Axe
+    recipe Buy Equipment: Axe
         {
         Money=25,
         Result: Axe,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy BallPeenHammer
+    recipe Buy Equipment: BallPeenHammer
         {
         Money=15,
         Result: BallPeenHammer,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy ClubHammer
+    recipe Buy Equipment: ClubHammer
         {
         Money=15,
         Result: ClubHammer,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy CarBatteryCharger
+    recipe Buy Equipment: CarBatteryCharger
         {
         Money=50,
         Result: CarBatteryCharger,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Crowbar
+    recipe Buy Equipment: Crowbar
         {
         Money=20,
         Result: Crowbar,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy GardenSaw
+    recipe Buy Equipment: GardenSaw
         {
         Money=20,
         Result: GardenSaw,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Hammer
+    recipe Buy Equipment: Hammer
         {
         Money=10,
         Result: Hammer,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy HandAxe
+    recipe Buy Equipment: HandAxe
         {
         Money=25,
         Result: HandAxe,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Jack
+    recipe Buy Equipment: Jack
         {
         Money=25,
         Result: Jack,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Wrench
+    recipe Buy Equipment: Wrench
         {
         Money=15,
         Result: Wrench,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         }
-    recipe Buy LugWrench
+    recipe Buy Equipment: LugWrench
         {
         Money=15,
         Result: LugWrench,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Paintbrush
+    recipe Buy Equipment: Paintbrush
         {
         Money=10,
         Result: Paintbrush,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy PipeWrench
+    recipe Buy Equipment: PipeWrench
         {
         Money=15,
         Result: PipeWrench,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy BlowTorch
+    recipe Buy Equipment: BlowTorch
         {
         Money=30,
         Result: BlowTorch,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy AxeStone
+    recipe Buy Equipment: AxeStone
         {
         Money=10,
         Result: AxeStone,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Saw
+    recipe Buy Equipment: Saw
         {
         Money=30,
         Result: Saw,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Screwdriver
+    recipe Buy Equipment: Screwdriver
         {
         Money=25,
         Result: Screwdriver,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Sledgehammer
+    recipe Buy Equipment: Sledgehammer
         {
         Money=65,
         Result: Sledgehammer,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy HammerStone
+    recipe Buy Equipment: HammerStone
         {
         Money=5,
         Result: HammerStone,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy TirePump
+    recipe Buy Equipment: TirePump
         {
         Money=15,
         Result: TirePump,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy WoodAxe
+    recipe Buy Equipment: WoodAxe
         {
         Money=35,
         Result: WoodAxe,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy PickAxe
+    recipe Buy Equipment: PickAxe
         {
         Money=35,
         Result: PickAxe,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         }
-    recipe Buy WoodenMallet
+    recipe Buy Equipment: WoodenMallet
         {
         Money=10,
         Result: WoodenMallet,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Spanner
+    recipe Buy Equipment: Spanner
         {
         Money=15,
         Result: Spanner,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         } 
-    recipe Buy Blue Umbrella
+    recipe Buy Equipment: Blue Umbrella
         {
         Money = 15,
         Result: ClosedUmbrellaBlue,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         }
-    recipe Buy Red Umbrella
+    recipe Buy Equipment: Red Umbrella
         {
         Money = 15,
         Result: ClosedUmbrellaRed,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         }
-    recipe Buy Black Umbrella
+    recipe Buy Equipment: Black Umbrella
         {
         Money = 15,
         Result: ClosedUmbrellaBlack,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         }
-    recipe Buy White Umbrella
+    recipe Buy Equipment: White Umbrella
         {
         Money = 15,
         Result: ClosedUmbrellaWhite,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         }
-    recipe Buy Dumbbell
+    recipe Buy Equipment: Dumbbell
         {
         Money = 25,
         Result: DumbBell,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Equipment,
+        Category: SShop Buy,
         }
 }
 

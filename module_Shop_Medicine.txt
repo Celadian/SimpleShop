@@ -1,290 +1,298 @@
  module Base {  
-    recipe Buy Bandaid
+    recipe Buy Medicine: Bleach
+        {
+        Money=10,
+        Result: Bleach,
+        Time: 500,
+        keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
+        Category: SShop Buy,
+        }
+    recipe Buy Medicine: Bandaid
         {
         Money=5,
         Result: Bandaid,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Bandage
+    recipe Buy Medicine: Bandage
         {
         Money=5,
         Result: Bandage,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy AlcoholBandage
+    recipe Buy Medicine: AlcoholBandage
         {
         Money=10,
         Result: AlcoholBandage,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         }  
-    recipe Buy DenimStrips
+    recipe Buy Medicine: DenimStrips
         {
         Money=2,
         Result: DenimStrips,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy LeatherStrips
+    recipe Buy Medicine: LeatherStrips
         {
         Money=2,
         Result: LeatherStrips,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy RippedSheets
+    recipe Buy Medicine: RippedSheets
         {
         Money=2,
         Result: RippedSheets,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy AlcoholRippedSheets
+    recipe Buy Medicine: AlcoholRippedSheets
         {
         Money=5,
         Result: AlcoholRippedSheets,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Splint
+    recipe Buy Medicine: Splint
         {
         Money=5,
         Result: Splint,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy AlcoholWipes
+    recipe Buy Medicine: AlcoholWipes
         {
         Money=5,
         Result: AlcoholWipes,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Disinfectant
+    recipe Buy Medicine: Disinfectant
         {
         Money=15,
         Result: Disinfectant,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy AlcoholedCottonBalls
+    recipe Buy Medicine: AlcoholedCottonBalls
         {
         Money=5,
         Result: AlcoholedCottonBalls,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy WhiskeyFull
+    recipe Buy Medicine: WhiskeyFull
         {
         Money=20,
         Result: WhiskeyFull,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy BlackSage
+    recipe Buy Medicine: BlackSage
         {
         Money=3,
         Result: BlackSage,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Comfrey
+    recipe Buy Medicine: Comfrey
         {
         Money=3,
         Result: Comfrey,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy CommonMallow
+    recipe Buy Medicine: CommonMallow
         {
         Money=3,
         Result: CommonMallow,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Ginseng
+    recipe Buy Medicine: Ginseng
         {
         Money=3,
         Result: Ginseng,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy LemonGrass
+    recipe Buy Medicine: LemonGrass
         {
         Money=3,
         Result: LemonGrass,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Plantain
+    recipe Buy Medicine: Plantain
         {
         Money=3,
         Result: Plantain,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy WildGarlic
+    recipe Buy Medicine: WildGarlic
         {
         Money=3,
         Result: WildGarlic,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy ComfreyCataplasm
+    recipe Buy Medicine: ComfreyCataplasm
         {
         Money=3,
         Result: ComfreyCataplasm,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Materials
+    recipe Buy Medicine: Materials
         {
         Money=3,
         Result: PlantainCataplasm,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy WildGarlicCataplasm
+    recipe Buy Medicine: WildGarlicCataplasm
         {
         Money=3,
         Result: WildGarlicCataplasm,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy BathTowel
+    recipe Buy Medicine: BathTowel
         {
         Money=5,
         Result: BathTowel,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy CottonBalls
+    recipe Buy Medicine: CottonBalls
         {
         Money=5,
         Result: CottonBalls,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy DishCloth
+    recipe Buy Medicine: DishCloth
         {
         Money=5,
         Result: DishCloth,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy SutureNeedle
+    recipe Buy Medicine: SutureNeedle
         {
         Money=15,
         Result: SutureNeedle,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy SutureNeedleHolder
+    recipe Buy Medicine: SutureNeedleHolder
         {
         Money=5,
         Result: SutureNeedleHolder,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Tissue
+    recipe Buy Medicine: Tissue
         {
         Money=1,
         Result: Tissue,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Tweezers
+    recipe Buy Medicine: Tweezers
         {
         Money=15,
         Result: Tweezers,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Antibiotics
+    recipe Buy Medicine: Antibiotics
         {
         Money=50,
         Result: Antibiotics,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy PillsAntiDep
+    recipe Buy Medicine: PillsAntiDep
         {
         Money=20,
         Result: PillsAntiDep,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy PillsBeta
+    recipe Buy Medicine: PillsBeta
         {
         Money=20,
         Result: PillsBeta,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Cigarettes
+    recipe Buy Medicine: Cigarettes
         {
         Money=5,
         Result: Cigarettes,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy Pills
+    recipe Buy Medicine: Pills
         {
         Money=10,
         Result: Pills,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy PillsSleepingTablets
+    recipe Buy Medicine: PillsSleepingTablets
         {
         Money=20,
         Result: PillsSleepingTablets,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
-    recipe Buy PillsVitamins
+    recipe Buy Medicine: PillsVitamins
         {
         Money=10,
         Result: PillsVitamins,
-        Time: 1000,
+        Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
-        Category: SShop Medicine,
+        Category: SShop Buy,
         } 
 }
