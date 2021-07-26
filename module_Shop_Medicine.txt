@@ -265,7 +265,7 @@
         } 
     recipe Buy Medicine: Cigarettes
         {
-        Money=5,
+        Money=1,
         Result: Cigarettes,
         Time: 500,
         keep WalkieTalkie1/WalkieTalkie2/WalkieTalkie3/WalkieTalkie4/WalkieTalkie5/HamRadio1/HamRadio2/RadioMakeShift/HamRadioMakeShift/WalkieTalkieMakeShift,
